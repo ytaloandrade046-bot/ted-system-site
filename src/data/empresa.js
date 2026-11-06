@@ -12,6 +12,10 @@ export const empresa = {
       titulo: "Excelência técnica",
       descricao: "Compromisso com código limpo, boas práticas de engenharia e entregas de alta qualidade."
     },
+     {
+      titulo: "Criatividade",
+      descricao: "transformar desafios em soluções originais e inteligentes."
+    },
     {
       titulo: "Transparência e parceria",
       descricao: "Comunicação clara e honesta, tratando cada cliente como um parceiro de longo prazo."
@@ -55,6 +59,13 @@ export const empresa = {
       foto: "/images/amy.jpg",
       alt: "Foto de Amy Farrah Fowler",
       descricao: "Responsável por estruturar e proteger os bancos de dados dos clientes."
+    },
+    {
+      nome: "Carlos Eduardo Silva",
+      cargo: "CTO e Desenvolvedor Full Stack",
+      foto: "/images/carlos.jpg",
+      alt: "Foto de Carlos Eduardo Silva",
+      descricao: "Especialista em tecnologia e inovação, atua no desenvolvimento de soluções digitais modernas, focadas em otimizar processos e impulsionar o crescimento de empresas."
     }
   ]
 };
